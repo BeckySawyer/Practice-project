@@ -1,3 +1,5 @@
-.first-para {
+.first-para, .second-para {
+  width: 40%;
   font-size: 1.1em;
+  border-bottom: 1px solid black;
 }
