@@ -3,3 +3,7 @@
   font-size: 1.1em;
   border-bottom: 1px solid black;
 }
+.bold-sentence {
+  font-size: 1.5em;
+  padding: 10px;
+}
